@@ -11,7 +11,7 @@ I created an animation video using AI tools like. Klingai, chatgpt, leonardo.ai 
 
 03. Use Klingai to create animation videos:
       Add the generated images to create animation scenes.                             Link : https://app.klingai.com/global/
-    ![image alt]()
+    ![image alt](https://github.com/Senura-Peiris/Ai-Video/blob/main/kling%20ai%20image.png)
 
 04. Finally use CapCut to combine scenes to create animation video.                    Link : https://www.capcut.com/tools/desktop-video-editor
       Use audio , sound effects for greater result.
