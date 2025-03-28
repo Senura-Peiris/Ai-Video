@@ -18,4 +18,4 @@ I created an animation video using AI tools like. Klingai, chatgpt, leonardo.ai 
     ![image alt](https://github.com/Senura-Peiris/Ai-Video/blob/main/CapCut%20image.png)
 
     #Ai Animation Video
-    https://github.com/Senura-Peiris/Ai-Video/blob/main/Warrior%20fight%201.mp4
+   [ https://github.com/Senura-Peiris/Ai-Video/blob/main/Warrior%20fight%201.mp4](https://github.com/Senura-Peiris/Ai-Video/issues/1)
