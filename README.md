@@ -15,4 +15,4 @@ I created an animation video using AI tools like. Klingai, chatgpt, leonardo.ai 
 
 04. Finally use CapCut to combine scenes to create animation video.                    Link : https://www.capcut.com/tools/desktop-video-editor
       Use audio , sound effects for greater result.
-    ![image alt]()
+    ![image alt](https://github.com/Senura-Peiris/Ai-Video/blob/main/CapCut%20image.png)
