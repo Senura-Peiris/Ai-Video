@@ -19,5 +19,5 @@ Here is the steps:
 
     #Ai Animation Video
     This is a short part of the video.
-   (https://github.com/user-attachments/assets/a6fb244a-bcf6-44b1-a7ac-f3e1f7194a78)
+   ([https://github.com/user-attachments/assets/a6fb244a-bcf6-44b1-a7ac-f3e1f7194a78](https://github.com/Senura-Peiris/Ai-Video/issues/3))
    Final Video Link(Google Drive Link) : https://drive.google.com/file/d/1Oc3ZsSwCu3cgEfgYQkPdVJWvM7z8xReG/view?usp=sharing
