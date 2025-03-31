@@ -1,5 +1,10 @@
 # Ai-Video
 I created an animation video using AI tools like. Klingai, chatgpt, leonardo.ai and CapCut.
+
+ This is a short part of the video.
+ 
+https://github.com/user-attachments/assets/3012180d-28e2-42be-b448-961fc2153365
+
 Here is the steps:
 01. Chatgpt:
     Create your own story using chatgpt.create scripts for the image scenes.           Link : https://chatgpt.com/
@@ -18,6 +23,5 @@ Here is the steps:
     ![image alt](https://github.com/Senura-Peiris/Ai-Video/blob/main/CapCut%20image.png)
 
     #Ai Animation Video
-    This is a short part of the video.
-   ([https://github.com/user-attachments/assets/a6fb244a-bcf6-44b1-a7ac-f3e1f7194a78](https://github.com/Senura-Peiris/Ai-Video/issues/3))
+   
    Final Video Link(Google Drive Link) : https://drive.google.com/file/d/1Oc3ZsSwCu3cgEfgYQkPdVJWvM7z8xReG/view?usp=sharing
